@@ -1,6 +1,5 @@
 /**
  * 组装生产环境webpack配置
- * @author: gaoyong@weiyankeji.cn
  */
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');

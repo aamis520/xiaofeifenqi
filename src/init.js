@@ -1,6 +1,5 @@
 /**
 *   程序总初始化 ( !!!顺序最重要!!! )
-*	@author: gaoyong@weiyankeji.cn
 *	@date: 2017.10.16 
 */
 import Vue from 'vue'

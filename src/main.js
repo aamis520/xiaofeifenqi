@@ -1,6 +1,5 @@
 /**
 *   main
-*   @author: gaoyong@weiyankeji.cn
 *   @date: 2017.10.16
 */
 import './assets/css/reset.css'

@@ -1,6 +1,5 @@
 /**
 *   数据库
-*	@author: gaoyong@weiyankeji.cn
 *	@date: 2017.11.02
 */
 

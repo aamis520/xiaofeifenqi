@@ -1,6 +1,6 @@
 /**
  * for 联调
- * @author: gaoyong@weiyankeji.cn
+ * @author:
  * @date: 2017.09.24
  */
 require('./check-versions')()

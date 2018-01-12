@@ -1,6 +1,5 @@
 /**
 *  校验
-*	@author: gaoyong@weiyankeji.cn
 *	@date: 2017.09.06
 */
 

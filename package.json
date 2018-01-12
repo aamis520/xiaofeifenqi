@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://gaoyong@59.110.90.150/wy/fe-xxx-vue-standard.git"
+    "url": ""
   },
   "keywords": [
     "vue",
@@ -20,7 +20,6 @@
     "php",
     "python"
   ],
-  "author": "gaoyong@weiyankeji.cn",
   "license": "MIT",
   "engines": {
     "node": ">= 8.0.0",

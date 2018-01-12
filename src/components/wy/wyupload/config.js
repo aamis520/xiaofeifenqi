@@ -1,6 +1,5 @@
 /**
 *  配置类 针对一个项目
-*  @author: gaoyong@weiyankeji.cn
 *  @date: 2017.11.02
 */
 

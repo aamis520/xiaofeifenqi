@@ -1,6 +1,5 @@
 /**
 *  store 常量
-*  @atuhor: gaoyong@weiyankeji.cn
 *  @date: 2018.08.30 	
 */
 

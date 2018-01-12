@@ -1,6 +1,5 @@
 /**
 *   vuex plugin
-*	@author: gaoyong@weiyankeji.cn
 *	@date: 2017.08.29
 */
 

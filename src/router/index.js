@@ -1,6 +1,5 @@
 /**
 *  路由
-*  @author: gaoyong@weiyenkeji.cn
 *  @date: 2018.08.29
 */
 import VueRouter from 'vue-router'

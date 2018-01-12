@@ -1,6 +1,5 @@
 /**
 *  基于axios的请求生成工厂
-*   @author: gaoyong@weiyankeji.cn
 *	@date: 2017.09.05
 *	注意返回值一律为Promise类型
 */

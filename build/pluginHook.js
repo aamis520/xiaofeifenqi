@@ -1,6 +1,5 @@
 /**
  * webpack emit plugin
- * @author: gaoyong@weiyankeji.cn
  * @date: 2017.09.24
  */
 const rm = require('rimraf');

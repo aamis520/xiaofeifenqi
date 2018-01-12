@@ -1,6 +1,5 @@
 /**
  * 组装本地自测环境webpack配置
- * @author: gaoyong@weiyankeji.cn
  * @date: 2017-09-25
  */
 

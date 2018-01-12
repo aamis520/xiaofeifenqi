@@ -1,6 +1,5 @@
 /**
 *   状态管理
-*   @author: gaoyong@weiyankeji.cn
 *   @date: 2017.08.29
 */
 import Vuex from 'vuex'

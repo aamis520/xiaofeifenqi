@@ -1,6 +1,5 @@
 /**
 *   七牛云element扩展
-*	@author: gaoyong@weiyankeji.cn
 *	@date: 2017.11.02
 */
 import config from '../config'
