@@ -91,7 +91,7 @@ async function startDevServer ( wyConfig,webpackConfig ) {
   // serve pure static assets
   var staticPath = path.posix.join(wyConfig.assetsPublicPath, '.');
   app.use(staticPath, express.static('./static'))
-
+	
   var uri = 'http://localhost:' + port
 
   devMiddleware.waitUntilValid(() => {

@@ -1,6 +1,4 @@
-/**
- * 自定义路由
- */
+
 function createResponseJSON ( data ) {
 	return {
 		code: 0,
